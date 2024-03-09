@@ -41,6 +41,7 @@ Clone the repository:
 
 Copy code
 git clone https://github.com/iomakarsingh/rock_paper_scissors.git
+
 Open the index.html file in your web browser.
 
 Start playing!

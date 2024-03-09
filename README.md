@@ -6,10 +6,6 @@
 
 This is a simple web-based Rock, Paper, Scissors game created using HTML, CSS, and JavaScript. The game allows users to play against the computer, making their choice of rock, paper, or scissors, and then determining the winner based on the classic game rules.
 
-**Demo:**
-
-
-You can try out the game by visiting the following link: Rock, Paper, Scissors Game Demo
 
 **Features:**
 

@@ -51,7 +51,9 @@ Start playing!
 
 
 index.html: The main HTML file containing the structure of the game.
+
 style.css: The CSS file for styling the game interface.
+
 script.js: The JavaScript file containing the game logic.
 
 
